@@ -1,6 +1,6 @@
-# Proposta de projeto para Avaliação Full Stack
+# Proposta de projeto para Avaliação Back-end
 ## Objetivo
-Para esta avaliação deverá ser criada uma aplicação web, a escolha da tecnologia fica a critério do candidato, para registro e gestão de contatos pessoal, conforme esoecificações a seguir.
+Para esta avaliação deverá ser criada uma aplicação web, a escolha da tecnologia fica a critério do candidato, para registro e gestão de contatos pessoal, conforme especificações a seguir.
 - A aplicação deve baseada em uma API Rest;
 - A autorização deve ser baseada em JWT;
 - A aplicação deve permitir o auto cadastro dos usuários;
